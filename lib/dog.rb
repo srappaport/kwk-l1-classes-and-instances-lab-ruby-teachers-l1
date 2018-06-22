@@ -14,4 +14,4 @@ end
 fido = Dog.new
 puts  Dog.name
 lassie = Dog.new("Lassie")
-puts snoopy = Dog.new("Snoopy")
+snoopy = Dog.new("Snoopy")
