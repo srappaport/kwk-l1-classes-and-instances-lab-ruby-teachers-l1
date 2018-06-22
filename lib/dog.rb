@@ -12,7 +12,7 @@ class Dog
 
 end
 
-fido = Dog.new
+fido = Dog.new()
 puts  Dog.name
 lassie = Dog.new("Lassie")
 snoopy = Dog.new("Snoopy")
