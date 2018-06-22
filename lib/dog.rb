@@ -11,6 +11,7 @@ class Dog
 
 end
 
-puts fido = Dog.new
-puts lassie = Dog.new("Lassie")
+fido = Dog.new
+puts  Dog.name
+lassie = Dog.new("Lassie")
 puts snoopy = Dog.new("Snoopy")
