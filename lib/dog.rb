@@ -11,4 +11,6 @@ class Dog
 
 end
 
+fido = Dog.new("Fido")
+lassie = Dog.new("Lassie")
 snoopy = Dog.new("Snoopy")
