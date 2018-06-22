@@ -3,7 +3,7 @@ class Dog
 
   def initialize(name="Scrappy")
     @name = name
-    puts name
+    puts Dog.name
   end
 
   def name
